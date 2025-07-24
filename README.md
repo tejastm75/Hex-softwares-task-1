@@ -18,10 +18,21 @@ The task was to build a **simple Fibonacci number generator** using Python, with
 - Uses two variables `a` and `b` to keep track of Fibonacci numbers.
 - Uses a simple `for` loop to print `n` numbers.
 - Beginner-friendly and easy to understand.
-
 ---
 
 ## 📌 Example Output
 
 For input `n = 10`, the output will be:
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+
+
 
